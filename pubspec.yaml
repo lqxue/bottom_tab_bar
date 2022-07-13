@@ -1,7 +1,7 @@
 name: bottom_tab_bar
 description: A new Flutter project.
 version: 0.0.1
-homepage:https://github.com/lqxue/bottom_tab_bar
+homepage: https://github.com/lqxue/bottom_tab_bar
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
