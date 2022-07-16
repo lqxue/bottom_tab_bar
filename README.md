@@ -9,3 +9,8 @@ dependencies:
     git:
        url: https://github.com/lqxue/bottom_tab_bar.git
 ```
+
+# 效果图
+
+![image](https://github.com/lqxue/bottom_tab_bar/blob/main/image/img1.jpg)
+![image](https://github.com/lqxue/bottom_tab_bar/blob/main/image/img2.jpg)
